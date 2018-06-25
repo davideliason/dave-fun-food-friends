@@ -8,4 +8,4 @@
 
 [Heroku](https://dave-fun-food-friends.herokuapp.com/)
 
-![fun food friends]('./fun_food_friends.png')
+![fun food friends](./fun_food_friends.png)
